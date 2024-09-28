@@ -1,17 +1,17 @@
 ---
-icon: pen-to-square
 date: 2024-09-11
+breadcrumbExclude: true
 category:
   - tech
 tag:
-  - phone
+  - iphone
   - airpods
-  - watch
+  - iwatch
+star: true
+sticky: false
 ---
 
-# Summary of Apple's Fall 2024 Event
-
-#### Launching Eight New Products at Once! Summary of Apple's Fall 2024 Event
+# Launching Eight New Products at Once! Summary of Apple's Fall 2024 Event
 
 On the morning of September 10th, Apple held its 2024 Fall Product Launch Event, introducing eight new hardware products, including the iPhone 16 series, featuring several upgrades and surprises. Although the iPhone 16 series has minimal changes in appearance, there are still many highlights in hardware and functionality upgrades. The upgrades for the Apple Watch Series 10 are quite significant, and there's also the brand new AirPods 4 series.
 
@@ -67,7 +67,7 @@ This product belongs to the "unexpected" category. The first surprise is that it
 
 #### Wildfireon Summary:
 
-Regarding Apple's Fall Product Launch Event, my thoughts are as follows: Perhaps this year's leaks were quite accurate, which overall resulted in more pleasant surprises than disappointments, whether it's the iPhone 16 series, the Apple Watch Series 10, or the AirPods 4 series. I’ve seen many netizens complaining about the appearance. It's essential for online shoppers to understand one thing: most products that are only $9.99 with free shipping rely on new designs to stand out. If Apple were to ever reach that level, it would be the most disappointing situation. Some bloggers summed it up as “garbage,” and if you can find their summary from last year, it likely contained the same two words. Hundreds of millions of people around the world are purchasing what they call “garbage.” Just think about it for a moment, and you'll realize where the real problem lies. Another point is that complaints can be expressed in two words, but providing a review requires knowledge and the ability to detail the product's pros and cons.
+Regarding Apple's Fall Product Launch Event, my thoughts are as follows: Perhaps this year's leaks were quite accurate, which overall resulted in more pleasant surprises than disappointments, whether it's the iPhone 16 series, the Apple Watch Series 10, or the AirPods 4 series. I’ve seen many netizens complaining about the appearance. Some bloggers summed it up as “garbage,” and if you can find their summary from last year, it likely contained the same two words. Hundreds of millions of people around the world are purchasing what they call “garbage.” Just think about it for a moment, and you'll realize where the real problem lies. Another point is that complaints can be expressed in two words, but providing a review requires knowledge and the ability to detail the product's pros and cons.
 
 ![](./image-12.png)
 
