@@ -7,8 +7,7 @@ category:
 tag:
   - Mario
   - Nintendo
-star: true
-sticky: true
+star: 10
 ---
 
 # Super Mario Bros. Wonder: An Adventure Through a Fantastical World
