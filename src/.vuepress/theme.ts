@@ -24,7 +24,7 @@ export default hopeTheme({
   // sidebar
   sidebar,
 
-  footer: "Default footer",
+  footer: "Where innovation meets entertainment",
 
   displayFooter: true,
 
@@ -49,9 +49,9 @@ export default hopeTheme({
       // Facebook: "https://example.com",
       // Flipboard: "https://example.com",
       // Gitee: "https://example.com",
-      // GitHub: "https://github.com/wildfire0304",
       // Gitlab: "https://example.com",
       Gmail: "mailto:wildfire020304@gmail.com",
+      GitHub: "https://github.com/wildfire0304",
       // Instagram: "https://example.com",
       // Lark: "https://example.com",
       // Lines: "https://example.com",
