@@ -9,6 +9,7 @@ tag:
   - iwatch
 star: true
 sticky: false
+lastUpdated: false
 ---
 
 # Launching Eight New Products at Once! Summary of Apple's Fall 2024 Event
