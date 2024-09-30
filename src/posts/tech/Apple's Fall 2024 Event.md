@@ -2,7 +2,7 @@
 date: 2024-09-11
 breadcrumbExclude: true
 category:
-  - tech
+  - Tech
 tag:
   - iphone
   - airpods

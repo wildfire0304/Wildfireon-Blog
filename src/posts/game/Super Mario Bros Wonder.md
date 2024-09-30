@@ -3,7 +3,7 @@ date: 2023-08-02
 cover: "/assets/images/mario.png"
 breadcrumbExclude: true
 category:
-  - game
+  - Game
 tag:
   - Mario
   - Nintendo

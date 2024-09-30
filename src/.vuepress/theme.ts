@@ -35,7 +35,7 @@ export default hopeTheme({
   },
 
   blog: {
-    description: "Blog for tech & play",
+    description: "Blog for life & play",
     intro: "/intro.html",
     medias: {
       // Baidu: "https://example.com",

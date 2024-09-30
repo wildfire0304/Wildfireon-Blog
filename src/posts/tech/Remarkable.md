@@ -3,7 +3,7 @@ date: 2024-08-30
 breadcrumbExclude: true
 cover: "/assets/images/remarkable.png"
 category:
-  - tech
+  - Tech
 tag:
   - ebook
   - kindle
