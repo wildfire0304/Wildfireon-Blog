@@ -9,7 +9,7 @@ tag:
   - kindle
   - tablet
 star: true
-sticky: true
+sticky: false
 lastUpdated: false
 ---
 
