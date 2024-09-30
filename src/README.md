@@ -2,7 +2,7 @@
 home: true
 layout: BlogHome
 icon: home
-title: Blog Home
+title: Home
 # heroImage: https://theme-hope-assets.vuejs.press/logo.svg
 bgImage: /assets/images/mario-banner.png
 heroText: "Wildfire On: Live & Play"

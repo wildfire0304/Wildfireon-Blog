@@ -12,9 +12,9 @@ sticky: false
 lastUpdated: false
 ---
 
-# Launching Eight New Products at Once! Summary of Apple's Fall 2024 Event
+# Launching 8 New Products at Once! Summary of Apple's Fall 2024 Event
 
-On the morning of September 10th, Apple held its 2024 Fall Product Launch Event, introducing eight new hardware products, including the iPhone 16 series, featuring several upgrades and surprises. Although the iPhone 16 series has minimal changes in appearance, there are still many highlights in hardware and functionality upgrades. The upgrades for the Apple Watch Series 10 are quite significant, and there's also the brand new AirPods 4 series.
+On the morning of September 10th, Apple held its 2024 Fall Product Launch Event, introducing 8 new hardware products, including the iPhone 16 series, featuring several upgrades and surprises. Although the iPhone 16 series has minimal changes in appearance, there are still many highlights in hardware and functionality upgrades. The upgrades for the Apple Watch Series 10 are quite significant, and there's also the brand new AirPods 4 series.
 
 ![](./image-1.png)
 

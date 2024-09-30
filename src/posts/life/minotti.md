@@ -50,7 +50,7 @@ Minotti’s collections are constantly evolving, with new designs that push the 
 ### 3. **Clever Armchair**
    The **Rivera** armchair is a perfect blend of ergonomic comfort and chic design. Its sleek frame and comfortable upholstery make it an ideal choice for relaxation.
 
-   ![Rivera Clever Armchairt](z_foto-168-oka-021-tre-ante-grandang.jpg)
+   ![Rivera Clever Armchairt](image-28.jpg)
 
 ## Where Art Meets Function
 
