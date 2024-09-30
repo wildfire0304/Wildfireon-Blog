@@ -24,7 +24,10 @@ export default hopeTheme({
   // sidebar
   sidebar,
 
-  footer: "Where innovation meets entertainment",
+  footer: 
+  `<a href="/about-us">About Us</a> &nbsp;
+  <a href="/contact-us">Contact Us</a> &nbsp;
+  <a href="/privacy-policy">Privacy Policy</a>`,
 
   displayFooter: true,
 
@@ -35,8 +38,8 @@ export default hopeTheme({
   },
 
   blog: {
+    intro: '/about-us/',
     description: "Blog for life & play",
-    intro: "/intro.html",
     medias: {
       // Baidu: "https://example.com",
       // BiliBili: "https://example.com",
