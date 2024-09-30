@@ -50,7 +50,7 @@ export default hopeTheme({
       // Flipboard: "https://example.com",
       // Gitee: "https://example.com",
       // Gitlab: "https://example.com",
-      Gmail: "mailto:wildfire020304@gmail.com",
+      Gmail: "mailto:wildfireon@outlook.com",
       GitHub: "https://github.com/wildfire0304",
       // Instagram: "https://example.com",
       // Lark: "https://example.com",

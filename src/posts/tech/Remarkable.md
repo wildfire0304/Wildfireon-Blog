@@ -7,7 +7,7 @@ category:
 tag:
   - ebook
   - kindle
-  - pad
+  - tablet
 star: true
 sticky: true
 lastUpdated: false
