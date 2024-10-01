@@ -1,5 +1,5 @@
 ---
-date: 2024-01-02
+date: 2024-05-02
 breadcrumbExclude: true
 cover: "/assets/images/lutz-morris.png"
 category:
@@ -42,5 +42,7 @@ The **Miller** in Sky elevates luxury to new heights. With its soft, sky-blue le
 ![Miller | Sky — $1,090.00](image.png =x700)
 
 Each of these bags offers something unique, whether it’s the rich tone of **Blaine**, the effortless chic of **Carey**, or the fresh elegance of **Miller**. Together, they represent the core of what **Lutz Morris** does best—combining impeccable craftsmanship with timeless design for the discerning modern consumer.
+
+![Carey-B | Tan Nude Bottle $520.00](image-4.png =x700)
 
 Explore these pieces and more in **Lutz Morris's** collection, where minimalist luxury meets contemporary style.
