@@ -39,7 +39,7 @@ export default hopeTheme({
 
   blog: {
     intro: '/about-us/',
-    description: "Blog for life & play",
+    description: "Where fashion and lifestyle catch fire",
     medias: {
       // Baidu: "https://example.com",
       // BiliBili: "https://example.com",

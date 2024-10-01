@@ -5,8 +5,8 @@ icon: home
 title: Home
 # heroImage: https://theme-hope-assets.vuejs.press/logo.svg
 bgImage: /assets/images/mario-banner.png
-heroText: "Wildfire On: Live & Play"
-tagline: "Where innovation meets entertainment"
+heroText: "Wildfire On Fashion"
+tagline: "Where fashion and lifestyle catch fire"
 copyright: Copyright © 2024 Wildfireon
 
 heroFullScreen: false
