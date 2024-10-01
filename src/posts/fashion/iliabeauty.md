@@ -9,6 +9,7 @@ tag:
   - cosmetics
 star: 200
 sticky: 104
+lastUpdated: false
 ---
 
 # ILIA Beauty: Clean Beauty, Redefined

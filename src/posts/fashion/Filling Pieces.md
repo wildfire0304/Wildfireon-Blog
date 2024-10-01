@@ -9,6 +9,7 @@ tag:
   - shoes
 star: 200
 sticky: 104
+lastUpdated: false
 ---
 
 # Filling Pieces: Bridging the Gap Between Luxury and Streetwear

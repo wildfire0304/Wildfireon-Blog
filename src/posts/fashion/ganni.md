@@ -9,6 +9,7 @@ tag:
   - clothing
 star: 106
 sticky: 103
+lastUpdated: false
 ---
 
 # Discover Ganni: Where Style Meets Sustainability

@@ -9,6 +9,7 @@ tag:
   - handbag
 star: 105
 sticky: 103
+lastUpdated: false
 ---
 
 # The Icons of Lutz Morris: Blaine, Carey, and Miller
